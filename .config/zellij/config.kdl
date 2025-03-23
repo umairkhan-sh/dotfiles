@@ -1,0 +1,17 @@
+theme "nord"
+
+copy_clipboard "system"
+copy_on_select true
+
+simplified_ui true
+
+default_mode "locked"
+
+pane_frames false
+
+ui {
+    pane_frames {
+        rounded_corners true
+    }
+}
+

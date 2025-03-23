@@ -1,0 +1,44 @@
+add_newline = false
+command_timeout = 1000
+
+format = """$os$username$hostname$kubernetes$directory$git_branch
+$character
+"""
+
+[os]
+format = '[$symbol](bold white) '   
+disabled = false
+
+[os.symbols]
+Windows = ' '
+Arch = '󰣇'
+Ubuntu = ''
+Macos = '󰀵'
+
+[username]
+style_user = 'white bold'
+style_root = 'black bold'
+format = '[$user]($style) '
+disabled = false
+show_always = true
+
+[hostname]
+ssh_only = false
+format = 'on [$hostname](bold yellow) '
+disabled = false
+
+[directory]
+home_symbol = '󰋜 ~'
+read_only_style = '197'
+read_only = ' '
+format = 'at [$path]($style)[$read_only]($read_only_style) '
+
+[git_branch]
+symbol = ' '
+format = 'via [$symbol$branch]($style) '
+truncation_symbol = '…/'
+style = 'bold green'
+
+[character]
+success_symbol = '[❯](bold green)'	
+error_symbol = '[❯](bold red)'	
