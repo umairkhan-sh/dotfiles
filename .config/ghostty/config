@@ -5,8 +5,6 @@ theme = nord
 
 cursor-style = bar
 
-copy-on-select = clipboard
-
 fullscreen
 
 window-padding-x = 5
