@@ -3,6 +3,7 @@ sudo systemctl enable gdm
 sudo systemctl enable ufw
 sudo systemctl enable docker
 sudo systemctl enable bluetooth
+sudo systemctl enable systemd-resolved
 
 # enabling ufw firewall
 sudo ufw enable

@@ -10,6 +10,7 @@ ghostty
 git
 gnome
 gnome-browser-connector
+gnu-netcat
 go
 htop
 jq
@@ -24,12 +25,16 @@ openfortivpn
 openvpn
 python
 python-pip
+remmina
 ripgrep
 rust
 starship
 stow
+terraform
 ttf-jetbrains-mono-nerd
 ufw
+vim
+virtualbox
 wget
 yazi
 yq
