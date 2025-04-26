@@ -22,6 +22,5 @@ alias sv="sudo nvim"
 
 alias z="zellij"
 
-alias h='eval "$(fzf < ~/.zsh-history)"'
-
 eval "$(starship init zsh)"
+eval "$(atuin init zsh)"

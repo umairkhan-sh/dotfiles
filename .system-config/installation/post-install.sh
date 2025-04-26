@@ -14,4 +14,8 @@ touch ~/zsh-history
 # change default shell of user
 chsh -s $(which zsh) umair
 
+# add current user to docker group
 sudo usermod -aG docker $USER
+
+# atuin login
+atuin login -u umair-sh
