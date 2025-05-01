@@ -22,5 +22,7 @@ alias sv="sudo nvim"
 
 alias z="zellij"
 
+alias s="source ~/.config/zsh/.zshrc"
+
 eval "$(starship init zsh)"
 eval "$(atuin init zsh)"
