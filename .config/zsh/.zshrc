@@ -17,10 +17,10 @@ alias cat="bat"
 
 alias cl="clear"
 
+alias ..="cd .."
+
 alias v="nvim"
 alias sv="sudo nvim"
-
-alias z="zellij"
 
 alias s="source ~/.config/zsh/.zshrc"
 

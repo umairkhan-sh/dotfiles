@@ -1,21 +1,15 @@
-# services to enable
 sudo systemctl enable gdm
 sudo systemctl enable ufw
 sudo systemctl enable docker
 sudo systemctl enable bluetooth
 sudo systemctl enable systemd-resolved
 
-# enabling ufw firewall
 sudo ufw enable
 
-# create history file for zsh
-touch ~/zsh-history
+touch ~/.zsh-history
 
-# change default shell of user
 chsh -s $(which zsh) umair
 
-# add current user to docker group
 sudo usermod -aG docker $USER
 
-# atuin login
 atuin login -u umair-sh

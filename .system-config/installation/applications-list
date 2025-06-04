@@ -6,6 +6,7 @@ curl
 docker
 docker-compose
 eza
+fastfetch
 fzf
 ghostty
 git
@@ -17,7 +18,6 @@ htop
 jq
 kubectl
 less
-mattermost-desktop
 neovim
 nodejs-lts-jod
 npm
@@ -26,7 +26,6 @@ openfortivpn
 openvpn
 python
 python-pip
-remmina
 ripgrep
 rust
 starship
@@ -34,9 +33,6 @@ stow
 ttf-jetbrains-mono-nerd
 ufw
 vim
-virtualbox
 wget
-yazi
 yq
-zellij
 zsh
