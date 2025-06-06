@@ -8,3 +8,5 @@ rm -rf ~/yay
 cd ~/dotfiles/.system-config/installation
 
 yay -S --needed $(awk '{print $1}' applications-list-aur)
+
+curl -f https://zed.dev/install.sh | sh
