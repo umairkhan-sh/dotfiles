@@ -14,6 +14,7 @@ gnome
 gnome-browser-connector
 gnu-netcat
 go
+helm
 htop
 jq
 kubectl
@@ -26,6 +27,7 @@ openfortivpn
 openvpn
 python
 python-pip
+remmina
 ripgrep
 rust
 starship
