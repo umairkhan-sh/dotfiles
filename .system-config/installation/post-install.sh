@@ -6,8 +6,6 @@ sudo systemctl enable systemd-resolved
 
 sudo ufw enable
 
-touch ~/.zsh-history
-
 chsh -s $(which zsh) umair
 
 sudo usermod -aG docker $USER
