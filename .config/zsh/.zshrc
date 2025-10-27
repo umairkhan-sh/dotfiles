@@ -24,5 +24,7 @@ alias sv="sudo nvim"
 
 alias s="source ~/.config/zsh/.zshrc"
 
+TERM=xterm-256color
+
 eval "$(starship init zsh)"
 eval "$(atuin init zsh)"
