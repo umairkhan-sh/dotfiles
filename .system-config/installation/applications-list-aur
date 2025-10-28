@@ -4,3 +4,5 @@ dnslookup
 go-blueprint-bin
 stacer-bin
 zed
+vulkan-icd-loader 
+vulkan-intel
