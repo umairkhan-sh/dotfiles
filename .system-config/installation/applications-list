@@ -11,8 +11,6 @@ fastfetch
 fzf
 ghostty
 git
-gnome
-gnome-browser-connector
 gnu-netcat
 go
 helm
@@ -23,7 +21,6 @@ less
 neovim
 nodejs-lts-jod
 npm
-obsidian
 openfortivpn
 openvpn
 python
