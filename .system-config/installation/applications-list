@@ -18,6 +18,7 @@ go
 helm
 htop
 jq
+kind
 kubectl
 less
 neovim
@@ -30,11 +31,13 @@ python-pip
 remmina
 ripgrep
 rust
+rustup
 starship
 stow
 ttf-jetbrains-mono-nerd
 ufw
 vim
 wget
+yarn
 yq
 zsh
