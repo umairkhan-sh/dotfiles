@@ -2,8 +2,10 @@ antigravity
 anydesk-bin
 brave-bin
 dnslookup
+gemini-cli
 go-blueprint-bin
 headlamp
+kubebuilder-bin
 ngrok
 pomo-bin
 stacer-bin
