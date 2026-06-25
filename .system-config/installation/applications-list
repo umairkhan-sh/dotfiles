@@ -18,6 +18,7 @@ go
 helm
 htop
 jq
+julia
 kind
 kubectl
 less
@@ -36,6 +37,7 @@ starship
 stow
 ttf-jetbrains-mono-nerd
 ufw
+uv
 vim
 wget
 yarn

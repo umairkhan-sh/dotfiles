@@ -1,8 +1,9 @@
-antigravity
+antigravity-cli
 anydesk-bin
 brave-bin
+claude-desktop-bin
 dnslookup
-gemini-cli
+fluxcd
 go-blueprint-bin
 headlamp
 kubebuilder-bin
