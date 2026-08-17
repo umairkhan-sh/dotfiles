@@ -10,6 +10,7 @@ kubebuilder-bin
 ngrok
 pomo-bin
 stacer-bin
+visual-studio-code-bin
 vulkan-icd-loader 
 vulkan-intel
-visual-studio-code-bin
+z-library-bin
