@@ -1,5 +1,6 @@
 ansible
 atuin
+base-devel
 bat
 bluez
 btop
@@ -13,7 +14,6 @@ ghostty
 git
 gnome
 gnome-browser-connector
-gnu-netcat
 go
 helm
 htop
