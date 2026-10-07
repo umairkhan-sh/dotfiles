@@ -1,13 +1,17 @@
 antigravity-cli
 anydesk-bin
 brave-bin
+cilium-cli
 dnslookup
 fluxcd
+glow
 go-blueprint-bin
 headlamp
 kubebuilder-bin
+lazydocker
 ngrok
 obsidian
+opencode-bin
 pomo-bin
 stacer-bin
 visual-studio-code-bin

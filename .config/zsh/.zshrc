@@ -22,6 +22,8 @@ alias ..="cd .."
 alias v="nvim"
 alias sv="sudo nvim"
 
+alias k="kubectl"
+
 alias s="source ~/.config/zsh/.zshrc"
 
 TERM=xterm-256color
