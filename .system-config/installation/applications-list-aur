@@ -5,6 +5,7 @@ cilium-cli
 dnslookup
 fluxcd
 glow
+gnome-extensions-app
 go-blueprint-bin
 headlamp
 kubebuilder-bin
