@@ -22,11 +22,15 @@ julia
 kind
 kubectl
 less
+libcamera
+libcamera-ipa
+libcamera-tools
 neovim
 nodejs-lts-jod
 npm
 openfortivpn
 openvpn
+pipewire-libcamera
 python
 python-pip
 remmina
